@@ -1,0 +1,11 @@
+transformers
+datasets
+gradio
+scikit-learn
+nltk
+pandas
+openpyxl
+rapidfuzz
+sentence-transformers
+networkx
+matplotlib
