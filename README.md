@@ -18,8 +18,7 @@ project/
 │   └── web_app.py              # Gradio interface and deployment code
 ├── examples/
 │   └── sample_report.txt       # Sample threat report for testing extraction functions
-└── docs/
-    └── usage.md                # Additional documentation, usage instructions, and guides
+
 
 # ATT&CK TTP & IOC Extractor
 
