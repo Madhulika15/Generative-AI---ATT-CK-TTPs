@@ -1,0 +1,6 @@
+# Example true and predicted labels
+y_true = ['T1566', 'T1059']    # Actual Techniques (from MITRE ATT&CK IDs)
+y_pred = ['T1566', 'T1059']    # Predicted Techniques
+
+print("\n✅ Evaluation Metrics:")
+print(classification_report(y_true, y_pred))
